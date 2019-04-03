@@ -118,7 +118,7 @@ int main(){
 	
 	cout<<"---------------n queen's problem using backtracking---------------\n";
 	cout<<"---------------♛ represents the queen---------------\n";
-	cout<<"---------------15 represents the emoty sells ---------------\n";
+	cout<<"---------------❌ represents the emoty sells ---------------\n";
 	
 	cout<<"Enter the number of n: ";
 	cin>>n;
